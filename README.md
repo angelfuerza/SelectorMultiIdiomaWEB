@@ -1,5 +1,6 @@
 ESTE PROYECTO SE TRATA DE UN SELECTOR MULTI-IDIOMA PARA UNA PÁGINA WEB
 
+-Se recomienda guardar todo este proyecto en una carpeta raiz
 
 -Primeramente hay que crear dos carpetas separadas con la misma web en distintos idiomas, pero el índex ponerlo en la web con el idioma que queremos que aparezca primero. En la web con el idioma secundaria, que es un clon de la web principal pero en otro idioma, ponerla dentro de otra carpeta para que el índex que se lea sea el de la web principal
 
@@ -19,6 +20,7 @@ ESTE PROYECTO SE TRATA DE UN SELECTOR MULTI-IDIOMA PARA UNA PÁGINA WEB
 
 THIS PROJECT IS A MULTI-LANGUAGE SELECTOR FOR A WEB PAGE
 
+-Is recommended to save this hole proyect in a source folder
 
 -First you have to create two separate folders with the same website in different languages, but put the index on the website with the language you want to appear first. On the web with the secondary language, which is a clone of the main web but in another language, put it inside another folder so that the index that is read is that of the main web
 
