@@ -35,3 +35,9 @@ THIS PROJECT IS A MULTI-LANGUAGE SELECTOR FOR A WEB PAGE
 -In this project the secondary language folder is called "en" for English
 
 -The secondary web page must be translated manually. In principle, this method is designed for small projects or landing pages.
+
+------------------------------------------------------------------------------------
+
+
+<img width="213" alt="Captura de pantalla 2023-06-22 a las 10 36 28" src="https://github.com/angelfuerza/SelectorMultiIdiomaWEB/assets/129788721/f4e504de-d2f0-482e-9037-1f9fc0c9c1ed">
+<img width="182" alt="Captura de pantalla 2023-06-22 a las 10 36 37" src="https://github.com/angelfuerza/SelectorMultiIdiomaWEB/assets/129788721/255552d2-66c6-4b49-9471-08132dc0ef95">
